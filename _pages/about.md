@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in the [HKUST NLP Group](https://github.com/hkust-nlp) at the Hong Kong University of Science and Technology, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning.
+I am a first-year Ph.D. candidate in the HKUST NLP Group at the Hong Kong University of Science and Technology, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning.
 
 Education
 ======
